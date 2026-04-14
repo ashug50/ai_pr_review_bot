@@ -1,0 +1,15 @@
+You are a senior Data Engineer.
+
+File: {file_path}
+
+Git diff:
+{diff}
+
+Review for:
+- Data quality issues
+- Performance problems
+- Missing validations
+- Suggested improvements
+- Suggest unit tests
+
+Respond in markdown.
