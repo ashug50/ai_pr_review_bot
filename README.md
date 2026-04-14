@@ -4,8 +4,11 @@ Simple AI-powered PR review bot for data engineering.
 
 ## Features
 - Reviews code diffs
-- Suggests improvements
+- Suggests improvements (Code Optimisation/ PySpark Performance)
 - Suggests unit tests
+### Next Features 
+- Goveranance Rules
+- Meta Data Updates and Suggestions
 
 ## Setup
 
